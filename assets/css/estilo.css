@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: #b67b7b;
+}
+
+#site{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+main{
+    width: 100%;
+    height: 1000vh;
+    background: #98c96f;
+}
+
+header{
+    width: 100%;
+    height: 80px;
+    background: #7032a3;
+    float: left;
+    padding: 0;
+}
+
+#unityicon{
+    background: #0b45b1;
+    width: 50px;
+    height: auto;
+    margin-top: 0px;
+    float: left;
+}
+
+header ul{
+    margin-top: 25px;
+}
+header ul li{
+    display:inline;
+    background: red;
+    padding: 5px;
+}
+
+header button{
+    float: left;
+}
+.icon{
+    float: left;
+}
+
+#pag1{
+    background: #7cb5ff;
+    width: auto;
+    height: 700px;
+}
+
+#pag2{
+    background: #fff597;
+    width: auto;
+    height: 700px;
+}
+
